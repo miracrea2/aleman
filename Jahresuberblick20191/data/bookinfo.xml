@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookinfo autoFlipSeconds="5" bgColor="#696969" windowColor="#0090dd" bgPosition="stretch" bgImage="content/images/theme/bg.jpg" shadow="true" pageWidth="1240" pageHeight="1754" flipSpeedBoost="28" title="Jahresuberblick20191" author="" zipIcon="content/images/iconZip.gif" exeIcon="content/images/iconExe.gif" companyUrl="https://miracrea.github.io/rendiciondecuentas2019/" companyAddress="" tel="" fitScreenAfterZoom="false" defaultZoomScale="2" autoMoveAfterZoom="false" zoomAfterLoaded="false" hardCover="false" clickToZoom="singleclick" gateway="http://epagecreator.net/share/email.php" shareUrl="index.html" id="Jahresuberblick20191" bookmarkWidth="18" bookmarkHeight="150" bookmarkFontSize="10" rightToLeft="false" autoFlip="false" companyName="" zipUrl="offline/Jahresuberblick20191.zip" exeUrl="" fullScreen="false" password="gbqVb3aloa15" lic="obWgqJarpKKgn6Rs" analyticsUA="UA-158040458-1" pdfUrl="" thickness="0" mouseWheelZoom="false" showZoomBox="true" bookSize="10" email="" flipArrow="false">
+    <leftmenu showTabBackground="false" visible="true" hideAfterZoom="false">
+        <issues visible="false" icon="content/images/theme/library.png"></issues>
+        <toc visible="false" icon="content/images/theme/toc.png"></toc>
+        <thumbs visible="true" icon="content/images/theme/thumb.png"></thumbs>
+        <email visible="false" icon="content/images/theme/email.png"></email>
+        <sns visible="false" icon="content/images/theme/share.png"></sns>
+        <print visible="false" icon="content/images/theme/print.png"></print>
+        <close visible="false" icon="content/images/theme/close.png"></close>
+        <download visible="true" icon="content/images/theme/download.png"></download>
+        <pdf icon="content/images/theme/pdf.png" visible="true" singlePage="true" doublePage="true" entirePDF="false"></pdf>
+        <setting visible="true" icon="content/images/theme/settings.png"></setting>
+        <about visible="true" icon="content/images/theme/about.png"></about>
+    </leftmenu>
+    <bottommenu iconSameSize="true" showBackground="false" background="content/images/menuBackground.png" visible="true" position="top" autoHideOnFullScreen="true" limitTo100="false" hideAfterZoom="false">
+        <help icon="content/images/theme/help.png" visible="true" url="http://www.epagecreator.net/readerhelp/index.html"></help>
+        <info icon="content/images/theme/info.png" visible="false"></info>
+        <zoom visible="true" icon="content/images/theme/zoomin.png" dicon="content/images/theme/zoomout.png" mode="normal"></zoom>
+        <autoflip visible="true" icon="content/images/theme/autoflip.png"></autoflip>
+        <search visible="true" icon="content/images/theme/search.png"></search>
+        <bookmark visible="true" icon="content/images/theme/bookmark.png"></bookmark>
+        <notes visible="true" icon="content/images/theme/note.png"></notes>
+        <fullscreen visible="true" icon="content/images/theme/exitfullscreen.png"></fullscreen>
+        <highlight visible="true" icon="content/images/theme/highlight.png"></highlight>
+        <back visible="false" icon="content/images/theme/back.png"></back>
+        <forward visible="false" icon="content/images/theme/forward.png"></forward>
+        <firstpage visible="true" icon="content/images/theme/first.png"></firstpage>
+        <prevpage visible="true" icon="content/images/theme/previous.png"></prevpage>
+        <nextpage visible="true" icon="content/images/theme/next.png"></nextpage>
+        <lastpage visible="true" icon="content/images/theme/last.png"></lastpage>
+        <sound visible="false" icon="content/images/theme/audiooff.png" dicon="content/images/theme/audioon.png"></sound>
+    </bottommenu>
+    <contextmenu></contextmenu>
+    <bookLogo url="content/images/logo-poweredby.png" href="https://miracrea.github.io/rendiciondecuentas2019/"></bookLogo>
+    <tooltip showZoomTip="true" showFlipTip="true" bgColor="#000000" fgColor="#ffffff" visible="true"></tooltip>
+    <bottomthumb bgAlpha="0" bgColor="#000000" visible="true"></bottomthumb>
+    <tks>
+        <tk begin="1" end="2" value="1"></tk>
+        <tk begin="3" end="5" value="2"></tk>
+        <tk begin="6" end="10" value="3"></tk>
+        <tk begin="11" end="20" value="4"></tk>
+        <tk begin="21" end="30" value="5"></tk>
+        <tk begin="31" end="40" value="6"></tk>
+        <tk begin="41" end="60" value="7"></tk>
+        <tk begin="61" end="120" value="8"></tk>
+        <tk begin="121" end="0" value="9"></tk>
+    </tks>
+</bookinfo>
